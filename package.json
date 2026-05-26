@@ -1,0 +1,9 @@
+{
+  "name": "deskflow-assessment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd DeskFlow/frontend && npm install && npm run build",
+    "start": "cd DeskFlow/backend && npm start"
+  }
+}
